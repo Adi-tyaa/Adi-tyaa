@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adi-tyaa
+- 👋 Hi, I’m @Aditya
 - 👀 I’m interested in Software Devoloping
 - 🌱 I’m currently learning Python Prgrmming Language
-- 💞️ I’m looking to collaborate on anyone who wants to wakrk with me
+- 💞️ I’m looking to collaborate on anyone who wants to work with me
 - 📫 How to reach me, just text me:)
 
 <!---
