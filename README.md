@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya
-- 👀 I’m interested in Software Devoloping
+- 👀 I’m interested in Web Devoloping
 - 🌱 I’m currently learning Python Prgrmming Language
 - 💞️ I’m looking to collaborate on anyone who wants to work with me
 - 📫 How to reach me, just text me:)
